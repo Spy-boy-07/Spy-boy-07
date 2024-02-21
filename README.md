@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spy-boy-07&label=Profile%20views&color=0e75b6&style=flat" alt="spy-boy-07" /> </p>
 
 
-- 🌱 I’m currently learning **Node js, react and python.**
+- 🌱 I’m currently learning **Machine Learning and Data Analytics n Visualisation.**
 
 - 💬 Ask me about **Android Development**
 
