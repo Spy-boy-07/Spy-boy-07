@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Analytics n Visualisation.**
 
-- 💬 Ask me about **Android Development**
+- 💬 Data Science Enthusiast
 
 - 📫 How to reach me **devlopermar@gmail.com**
 
